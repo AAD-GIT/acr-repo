@@ -39,5 +39,5 @@ spec:
   ports:
   - port: 80
   selector:
-    app: web-game
+    app: web-game-11
 
